@@ -1,0 +1,2 @@
+c:\users\dysan smajic\documents\visual studio 2013\Projects\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\bin\Debug\Tuzla Final Homework Sandy Smajic.exe.config
+c:\users\dysan smajic\documents\visual studio 2013\Projects\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\obj\Debug\Tuzla Final Homework Sandy Smajic.csprojResolveAssemblyReference.cache
